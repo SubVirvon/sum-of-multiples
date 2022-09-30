@@ -10,13 +10,16 @@ namespace sum_of_multiples
     {
         static void Main(string[] args)
         {
-            Random rand = new Random();
-            int maxValue = rand.Next(101);
+            Random random = new Random();
+            int limitValue = 100;
+            int maxValue = random.Next(limitValue + 1);
+            int firstNumberComparison = 3;
+            int secondNumberComparison = 5;
             int result = 0;
 
             for (int i = 1; i <= maxValue; i++)
             {
-                if(i % 3 == 0 || i % 5 == 0)
+                if(i % firstNumberComparison == 0 || i % secondNumberComparison == 0)
                 {
                     result += i;
                 }
