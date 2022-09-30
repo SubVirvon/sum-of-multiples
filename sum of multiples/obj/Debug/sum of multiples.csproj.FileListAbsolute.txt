@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\sum of multiples\sum of multiples\bin\Debug\sum of multiples.exe.config
+C:\Users\Danii\source\repos\sum of multiples\sum of multiples\bin\Debug\sum of multiples.exe
+C:\Users\Danii\source\repos\sum of multiples\sum of multiples\bin\Debug\sum of multiples.pdb
+C:\Users\Danii\source\repos\sum of multiples\sum of multiples\obj\Debug\sum of multiples.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\sum of multiples\sum of multiples\obj\Debug\sum of multiples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\sum of multiples\sum of multiples\obj\Debug\sum of multiples.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\sum of multiples\sum of multiples\obj\Debug\sum of multiples.exe
+C:\Users\Danii\source\repos\sum of multiples\sum of multiples\obj\Debug\sum of multiples.pdb
